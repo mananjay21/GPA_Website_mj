@@ -1,0 +1,72 @@
+body{
+	margin:0px;
+	padding:0px;
+	background:#f1f1f1;
+	
+}
+#main_area{
+	
+	width:1000px;
+	height:1100px;
+	margin:0px auto;
+	padding:0px;
+	background:#f1f1f1;
+}
+#logo_area{
+	width:1000px;
+	height:100px;
+	margin:10px auto;
+	padding:0px;
+	background:#c2c0c0;
+	float:left;
+	text-align:center;
+
+}
+#nav_banner_conent{
+	width:1000px;
+	height:830px;
+	margin:0px auto;
+	padding:0px;
+	background:#f1f1f1;
+	float:left;
+	text-align:center;
+}
+#navigation{
+	width:290px;
+	height:810px;
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	background:#f1f1f1;
+	float:left;
+	text-align:center;
+}
+#banner{
+	width:700px;
+	height:200px;
+	margin:10px auto;
+	padding:0px;
+	background:#c2c0c0;
+	float:right;
+	text-align:center;
+}
+
+
+#body_area{
+	width:700px;
+	height:600px;
+	margin:0px;
+	padding:0px;
+	background:#c2c0c0;
+	float:right;
+	text-align:center;
+}
+#footer{
+	width:1000px;
+	height:50px;
+	margin:10px auto;
+	padding:0px;
+	background:#c2c0c0;
+	float:left;
+	text-align:center;
+}
+
